@@ -1,1 +1,119 @@
 # krolsn.github.io
+
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=TINY 5x3:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito Sans:wght@400&display=swap" />
+
+
+
+</head>
+<body>
+
+  	<div class="slide-169-1">
+    		<div class="frame-parent">
+      			<div class="name-here-parent">
+        				<div class="name-here">Name<br>Here</div>
+        				<div class="work-parent">
+          					<div class="name-here">Work</div>
+          					<div class="name-here">Gallery</div>
+          					<div class="name-here">About</div>
+        				</div>
+      			</div>
+      			<div class="frame-group">
+        				<div class="work-wrapper">
+          					<div class="name-here">Work</div>
+        				</div>
+        				<div class="component-parent">
+          					<div class="frame-wrapper">
+            						<div class="rectangle-parent">
+              							<div class="frame-child">
+              							</div>
+              							<div class="project-name-parent">
+                								<div class="project-name">Project name</div>
+                								<div class="lorem-ipsum-dolor">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</div>
+              							</div>
+            						</div>
+          					</div>
+          					<div class="frame-wrapper">
+            						<div class="rectangle-parent">
+              							<div class="frame-child">
+              							</div>
+              							<div class="project-name-parent">
+                								<div class="project-name">Project name</div>
+                								<div class="lorem-ipsum-dolor">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</div>
+              							</div>
+            						</div>
+          					</div>
+        				</div>
+      			</div>
+      			<div class="group-div">
+        				<div class="gallery-wrapper">
+          					<div class="gallery2">Gallery</div>
+        				</div>
+        				<div class="instance-parent">
+          					<div class="frame-div">
+            						<div class="rectangle-wrapper">
+              							<img class="frame-inner" alt="" src="Artboard 1.jpg">
+
+            						</div>
+          					</div>
+          					<div class="frame-wrapper2">
+            						<div class="rectangle-container">
+              							<img class="frame-inner" alt="" src="A4 - 2.jpg">
+
+            						</div>
+          					</div>
+          					<div class="frame-wrapper2">
+            						<div class="rectangle-container">
+              							<img class="frame-inner" alt="">
+
+            						</div>
+          					</div>
+          					<div class="frame-wrapper2">
+            						<div class="rectangle-container">
+              							<img class="frame-inner" alt="">
+
+            						</div>
+          					</div>
+          					<div class="frame-wrapper2">
+            						<div class="rectangle-wrapper3">
+              							<img class="frame-child4" alt="">
+
+            						</div>
+          					</div>
+          					<div class="frame-wrapper2">
+            						<div class="rectangle-wrapper3">
+              							<img class="frame-child4" alt="">
+
+            						</div>
+          					</div>
+          					<div class="frame-wrapper2">
+            						<div class="rectangle-wrapper3">
+              							<img class="frame-child4" alt="">
+
+            						</div>
+          					</div>
+          					<div class="frame-wrapper2">
+            						<div class="rectangle-wrapper3">
+              							<img class="frame-child4" alt="">
+
+            						</div>
+          					</div>
+          					<div class="frame-child8">
+          					</div>
+        				</div>
+      			</div>
+    		</div>
+  	</div>
+
+
+
+
+</body>
+</html>
